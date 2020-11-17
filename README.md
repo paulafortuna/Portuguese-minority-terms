@@ -1,6 +1,6 @@
 # Portuguese-minority-terms
 
-The repo contains the a dictionary of words used to refer to minorities in Portuguese referring to the context of Portugal.
+The repo contains a dictionary of words used to refer to minorities in Portuguese referring to the context of Portugal.
 
 If you use this dataset please cite:
 
