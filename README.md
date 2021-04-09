@@ -1,8 +1,8 @@
 # Portuguese-minority-terms
 
-The repo contains a dictionary of words used to refer to minorities (e.g woman, migrants) in Portuguese. This words aim at cover only continental Portugal.
+The repo contains a dictionary of words used to refer to minorities (e.g woman, migrants) in Portuguese. This words aim at cover only European Portuguese.
 
-If you use this dataset please cite:
+If you use this data please cite:
 
 ... to be added soon
 
